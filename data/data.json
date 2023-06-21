@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1,
+      "name": "Opel Commodore B",
+      "category": "opel",
+      "description": "Der Opel Commodore ist ein Fahrzeug der oberen Mittelklasse[1] der seinerzeit zum US-amerikanischen Automobilkonzern General Motors (GM) gehörenden Adam Opel AG. In Südafrika und einigen europäischen Ländern war er unter den Modellnamen Ranger A, Ranger B im Handel. Im März 1972[1] wurde der Commodore B eingeführt. Vom Rekord D unterscheidet er sich durch einen Sechszylindermotor und eine bessere Ausstattung.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}],      "sale": {"active": false, "percent": 0},
+      "inStock": 15,
+      "img": "./assets/img/opel-commodore-b.png"
+    },
+    {
+      "id": 4,
+      "name": "Opel Diplomat Coupe",
+      "category": "opel",
+      "description": "Der Opel Diplomat war das Spitzenmodell in der Oberklasse der Adam Opel AG und wurde zwischen Frühjahr 1964 und Sommer 1977 gebaut. Er basierte auf den Sechszylinder-Fahrzeugen Kapitän und Admiral und bot eine nochmals gesteigerte Ausstattung.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}],
+      "sale": {"active": true, "percent": 10},
+      "inStock": 2,
+      "img": "./assets/img/opel-diplomat-coupé.png"
+    },
+    {
+      "id": 3,
+      "name": "Opel Kadett A",
+      "category": "opel",
+      "description": "Der Kadett A von Opel war das erste Modell der bis heute produzierten Pkw-Baureihe Kadett/Astra. Das seinerzeit zur unteren Mittelklasse zählende Modell war einschließlich Motor völlig neu konstruiert. Der Typ wurde ab 1962 im dafür neu errichteten Opel-Werk Bochum gefertigt. Im September 1965 löste ihn der Kadett B ab.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}],      "sale": {"active": false, "percent": 0},
+      "inStock": 20,
+      "img": "./assets/img/opel-kadett-a.png"
+    },
+    {
+      "id": 4,
+      "name": "Opel Kadett C",
+      "category": "opel",
+      "description": "Der Opel Kadett C war ein Fahrzeugmodell der unteren Mittelklasse der Adam Opel AG und wurde von August 1973 bis Juli 1979 in ca. 1,6 Millionen Stück produziert.[1] Es basiert auf der GM-T Plattform (1973) „T-Car“ und wurde von Anfang an für den weltweiten Einsatz entwickelt.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99},{"size": "XL", "price": 12.99}],
+      "sale": {"active": false, "percent": 0},
+      "inStock": 8,
+      "img": "./assets/img/opel-kadett-c.png"
+    },
+    {
+      "id": 5,
+      "name": "Opel Manta",
+      "category": "opel",
+      "description": "Der Opel Manta war ein fünfsitziger Pkw der seinerzeit zum US-amerikanischen Automobilkonzern General Motors (GM) gehörenden Adam Opel AG. Einige Ausführungen waren nur viersitzig, zum Beispiel Manta B GT/E. Der erste Manta (Manta A) kam im September 1970 auf den Markt.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}], 
+      "sale": {"active": true, "percent": 10},
+      "inStock": 12,
+      "img": "./assets/img/opel-manta.png"
+    },
+    {
+      "id": 6,
+      "name": "Opel Kapitän A",
+      "category": "opel",
+      "description": "Der Opel Kapitän des deutschen Autoherstellers Opel wurde zwischen Ende 1938 und Frühjahr 1970 produziert. Zunächst war er ein Modell der oberen Mittelklasse und stieg in der KAD-A-Reihe ab 1964 in die Oberklasse auf. Die meisten Kapitän-Modelle hatten Sechszylinder-Reihenmotoren mit einem Hubraum von 2,5 bis 2,8 Liter und eine selbsttragende Karosserie, mit dem Kapitän A gab es ab 1965 auch Achtzylinder-V-Motoren mit 4,6 bis 5,4 Litern.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}],
+      "sale": {"active": false, "percent": 0},
+      "inStock": 10,
+      "img": "./assets/img/opel-ag-kapitaen-a.png"
+    },
+    {
+      "id": 7,
+      "name": "Opel Kapitän P2",
+      "category": "opel",
+      "description": "Der Opel Kapitän des deutschen Autoherstellers Opel wurde zwischen Ende 1938 und Frühjahr 1970 produziert. Zunächst war er ein Modell der oberen Mittelklasse und stieg in der KAD-A-Reihe ab 1964 in die Oberklasse auf. Die meisten Kapitän-Modelle hatten Sechszylinder-Reihenmotoren mit einem Hubraum von 2,5 bis 2,8 Liter und eine selbsttragende Karosserie, mit dem Kapitän A gab es ab 1965 auch Achtzylinder-V-Motoren mit 4,6 bis 5,4 Litern.",
+      "price": [{"size": "M", "price": 8.99},{"size": "L", "price": 10.99},{"size": "XL", "price": 12.99}],
+      "sale": {"active": true, "percent": 10},
+      "inStock": 0,
+      "img": "./assets/img/opel-ag-kapitaen-p2.png"
+    },
+    {
+      "id": 8,
+      "name": "Opel Rekord P1",
+      "category": "opel",
+      "description": "Der Opel Rekord P1 (ursprünglich Opel Olympia Rekord P) ist ein Pkw, den Opel im Sommer 1957 als Nachfolger des Opel Olympia Rekord vorstellte und bis Ende 1962 baute. Ein augenfälliges Merkmal dieses Modells waren die Panoramascheiben nach dem Vorbild US-amerikanischer Fahrzeuge.",
+      "price": [{"size": "M", "price": 8.99},{"size": "L", "price": 10.99},{"size": "XL", "price": 12.99}],
+      "sale": {"active": true, "percent": 10},
+      "inStock": 3,
+      "img": "./assets/img/opel-rekord-p1.png"
+    },
+    {
+      "id": 9,
+      "name": "Opel Rekord P2",
+      "category": "opel",
+      "description": "Der Opel Rekord P2 ist ein Pkw-Modell, das Opel im August 1960 als Nachfolger des Opel Olympia Rekord P (der mit dem Erscheinen des P2 nachträglich als Rekord P1 bezeichnet wird) auf den Markt brachte. Eine Neuerung war die zunächst auswärts gebaute und später werkseigene Coupé-Version.",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99}],
+      "sale": {"active": true, "percent": 10},
+      "inStock": 3,
+      "img": "./assets/img/opel-record-p2.png"
+    },
+    {
+      "id": 10,
+      "name": "Opel Record C Cabrio",
+      "category": "opel",
+      "description": "Der Opel Rekord C war ein Pkw-Modell der seinerzeit zum US-amerikanischen Automobilkonzern General Motors (GM) gehörenden Adam Opel AG aus der Modellreihe Opel Rekord. Der Rekord C ersetzte ab August 1966[1] das nur knapp ein Jahr lang gebaute „Zwischenmodell“ Rekord B und wartete mit einer völlig neuen Karosserie auf. Die Produktion des Nachfolgers Rekord D begann im Dezember 1971. ",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}],       "sale": {"active": false, "percent": 0},
+      "inStock": 4,
+      "img": "./assets/img/opel-record-cabrio.png"
+    },
+    {
+      "id": 11,
+      "name": "Opel Record C Caravan",
+      "category": "opel",
+      "description": "Der Opel Rekord C war ein Pkw-Modell der seinerzeit zum US-amerikanischen Automobilkonzern General Motors (GM) gehörenden Adam Opel AG aus der Modellreihe Opel Rekord. Der Rekord C ersetzte ab August 1966[1] das nur knapp ein Jahr lang gebaute „Zwischenmodell“ Rekord B und wartete mit einer völlig neuen Karosserie auf. Die Produktion des Nachfolgers Rekord D begann im Dezember 1971. ",
+      "price": [{"size": "S", "price": 6.99},{"size": "M", "price": 8.99},{"size": "L", "price": 10.99}],       "sale": {"active": false, "percent": 0},
+      "inStock": 7,
+      "img": "./assets/img/opel-record-caravan.png"
+    }
+  ]
+  
